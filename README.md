@@ -1,3 +1,5 @@
+I have completed the assignment. :wave:
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
